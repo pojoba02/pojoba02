@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![](https://hit.yhype.me/github/profile?user_id=8344941)
 <!--
 **pojoba02/pojoba02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
