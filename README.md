@@ -13,6 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://hit.yhype.me/github/profile?user_id=8344941)
+
 -->
+![](https://hit.yhype.me/github/profile?user_id=8344941)
+
+Put a Smile on Someone's face 🌺 🍄 
+https://swee.lol/ 
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
+
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
 ![](https://hit.yhype.me/github/profile?user_id=8344941)
