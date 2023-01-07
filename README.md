@@ -29,3 +29,4 @@ https://swee.lol
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=8344941)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pojoba02)](https://git.io/streak-stats)
