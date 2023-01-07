@@ -31,3 +31,4 @@ https://swee.lol
 ![](https://hit.yhype.me/github/profile?user_id=8344941)
 [![GitHub Streak](https://streak-stats.demolab.com?user=pojoba02&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pojoba02)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pojoba02&count_private=true)
