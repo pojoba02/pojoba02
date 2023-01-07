@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ![](https://hit.yhype.me/github/profile?user_id=8344941)
 
-Put a Smile on Someone's face 🌺 🍄 
+Put a Smile on Someone's face 🌺 🍄 🌍 🚀
 https://swee.lol/ 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
